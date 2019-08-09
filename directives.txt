@@ -1,0 +1,18 @@
+build-kdtree	points-file.txt
+display-tree
+insert	15.0	15.0
+display-tree
+search	15.0	15.0
+remove	15.0	15.0
+display-tree
+display-points
+remove	90.0	80.0
+search	90.0	80.0
+display-tree
+display-points
+find-min-x
+find-min-y
+find-max-x
+find-max-y
+print-range	0.0	0.0	90.0	100.0
+quit
